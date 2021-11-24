@@ -59,8 +59,7 @@ img {
     justify-content: center;
 }
 .intro {
-    width: 100%;
-    max-width: 570px;
+    width: 570px;
     display: flex;
     flex-direction: column;
     padding-top: 55px;
